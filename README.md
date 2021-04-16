@@ -156,4 +156,4 @@ Prerequisite:
 >2. Convergence is slow because it relies on Kubernetes cluster ( which will take about 5-10 min), using node-problem-detector Daemonset
 
 ## Metallb L3 mode
-Coming soon demo
+Coming soon demo, which is better than L2 mode and will expose VIPs utilized via BGP by all nodes, so that means VIP will be listened via all nodes

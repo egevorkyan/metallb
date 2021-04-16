@@ -156,7 +156,7 @@ Prerequisite:
 >2. Convergence is slow because it relies on Kubernetes cluster ( which will take about 5-10 min), using node-problem-detector Daemonset
 
 ## Metallb L3 demonstration topology
-![](img/metallb.png)
+![](img/metallb-bgp.png)
 
 Node list:
 ```bash

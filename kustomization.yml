@@ -9,7 +9,7 @@ resources:
 secretGenerator:
   - name: memberlist
     files:
-      - secretkey
+      - config/secretkey
 
 generatorOptions:
   disableNameSuffixHash: true
